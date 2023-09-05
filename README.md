@@ -1,18 +1,18 @@
-#Installing and Updating the Auto-GPT Project
+**Installing and Updating the Auto-GPT Project**
 This guide will help you with the initial installation of the Auto-GPT project and its subsequent updates.
 
-#Prerequisites:
+**Prerequisites:**
 Python: Ensure Python is installed. Download and install from the official website. During installation, check the box "Add Python X.X to PATH".
 
 Git: Ensure Git is installed. Download and install from the official website. During installation, when prompted, select "Git from the command line and also from 3rd-party software".
 
 Internet Connection: A stable internet connection is required to access GitHub.
 
-#Steps:
+**Steps:**
 Initial Installation:
 Download the Installer Script: Ensure you have the installer.bat and modify_env.py scripts saved in a directory.
 
-#Run the Installer:
+Run the Installer:
 
 Navigate to the directory containing the scripts.
 Double-click on installer.bat.
@@ -24,7 +24,7 @@ After the script completes, navigate to the Auto-GPT directory. You should see t
 Checking for Updates:
 Download the Update Scripts: Ensure you have update_installer.bat, check_update.py, and modify_env.py saved in a directory.
 
-#Run the Update Installer:
+Run the Update Installer:
 
 Navigate to the directory containing the scripts.
 Double-click on update_installer.bat.
