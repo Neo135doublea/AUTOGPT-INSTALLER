@@ -1,4 +1,4 @@
-**Installing and Updating the Auto-GPT Project**
+#Installing and Updating the Auto-GPT Project#
 This guide will help you with the initial installation of the Auto-GPT project and its subsequent updates.
 
 **Prerequisites:**
